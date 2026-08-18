@@ -76,4 +76,3 @@ pytest
 ## Docs
 
 - [Onboarding guide](docs/ONBOARDING.md)
-- [Full documentation](documentation.md)
